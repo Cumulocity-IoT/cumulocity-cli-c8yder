@@ -1,6 +1,6 @@
 ## C8yder a cli for Cumulocity
 
-C8yder (pronounced "cider") is a command line interface for Cumulocity. It is written in Node.js using inquirer and c8y/client library. It provides functions for Inventory, Measurement, Events etc.. It is usefull for setting up an asset structure, sending some measurements, events to the platform an much more. The promps use standard and best practice models and the user has only to define relevant information. In most cases default values can be select in order to work faster.
+C8yder (pronounced "cider") is a interactive command line interface for Cumulocity. It is written in Node.js using inquirer and c8y/client library. It provides functions for Inventory, Measurement, Events etc.. It is usefull for setting up an asset structure, sending some measurements, events to the platform an much more. The promps use standard and best practice models and the user has only to define relevant information. In most cases default values can be select in order to work faster.
 
 So let us dring a C8yder... ;)
 
